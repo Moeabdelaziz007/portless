@@ -15,7 +15,7 @@
     "@angular/core": "^21.1.5",
     "@angular/platform-browser": "^21.1.5",
     "@angular/platform-browser-dynamic": "^21.1.5",
-    "@hono/node-server": "^1.19.9",
+    "@hono/node-server": "^2.0.10",
     "@react-router/dev": "^7.13.0",
     "@react-router/node": "^7.13.0",
     "@sveltejs/adapter-auto": "^7.0.1",
